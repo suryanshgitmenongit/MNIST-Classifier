@@ -47,5 +47,4 @@ The model is designed to achieve high accuracy and F1 score on the MNIST dataset
 
 ## Performance
 The model achieves an F1 score and accuracy of roughly 98-99% on the MNIST dataset.
-
 ```
